@@ -1,0 +1,11 @@
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\bin\Debug\net7.0\ChinookEFDB.deps.json
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\bin\Debug\net7.0\ChinookEFDB.dll
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\bin\Debug\net7.0\ChinookEFDB.pdb
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net7.0\ChinookEFDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net7.0\ChinookEFDB.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net7.0\ChinookEFDB.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net7.0\ChinookEFDB.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net7.0\ChinookEFDB.dll
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net7.0\refint\ChinookEFDB.dll
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net7.0\ChinookEFDB.pdb
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net7.0\ref\ChinookEFDB.dll
