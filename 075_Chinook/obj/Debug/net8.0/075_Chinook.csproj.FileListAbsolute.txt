@@ -97,3 +97,4 @@ C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\075_Chinook\obj\Debug\net8.
 C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\075_Chinook\obj\Debug\net8.0\075_Chinook.pdb
 C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\075_Chinook\obj\Debug\net8.0\075_Chinook.genruntimeconfig.cache
 C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\075_Chinook\obj\Debug\net8.0\ref\075_Chinook.dll
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\075_Chinook\obj\Debug\net8.0\075_Chinook.sourcelink.json

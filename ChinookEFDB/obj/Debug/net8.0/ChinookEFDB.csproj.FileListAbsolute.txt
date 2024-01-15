@@ -12,3 +12,4 @@ C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net8.
 C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net8.0\ChinookEFDB.genruntimeconfig.cache
 C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net8.0\ref\ChinookEFDB.dll
 C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net8.0\ChinookEFDB.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\075_Chinook\ChinookEFDB\obj\Debug\net8.0\ChinookEFDB.sourcelink.json
